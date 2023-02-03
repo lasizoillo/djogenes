@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Tim Kamanin",
+    "email": "tim@timonweb.com",
+    "url": "https://timonweb.com"
+  },
+  "description": "Bulma for Django",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  },
+  "license": "MIT",
+  "main": "style.sass",
+  "style": "../css/style.min.css",
+  "name": "django_bulma"
+}

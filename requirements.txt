@@ -1,0 +1,9 @@
+django-admirarchy==1.2.2
+django-bulma==0.8.3
+django-environ==0.9.0
+django-htmx==1.13.0
+django-pipeline==2.0.9
+django-soft-delete==0.9.21
+django~=4.1
+pillow==9.4.0
+psycopg2==2.9.5
